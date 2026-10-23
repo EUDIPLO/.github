@@ -76,7 +76,9 @@ for setting up the service locally.
 Report security issues privately as described in the
 [security policy](https://github.com/EUDIPLO/.github/blob/main/SECURITY.md).
 See [GOVERNANCE.md](https://github.com/EUDIPLO/.github/blob/main/GOVERNANCE.md)
-for how decisions are made and who maintains the project.
+for how decisions are made and who maintains the project, and the
+[technical charter](https://github.com/EUDIPLO/.github/blob/main/CHARTER.pdf)
+it summarizes.
 
 EUDIPLO follows the
 [LF Decentralized Trust Code of Conduct](https://lf-decentralized-trust.github.io/governance/governing-documents/code-of-conduct/).

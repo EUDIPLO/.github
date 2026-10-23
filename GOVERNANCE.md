@@ -1,7 +1,7 @@
 # Governance
 
 EUDIPLO is governed by its
-[technical charter](https://github.com/EUDIPLO/eudiplo/blob/main/EUDIPLO%20Technical%20Charter%20(FINAL%2008.11.25).pdf).
+[technical charter](CHARTER.pdf).
 This page summarizes it; if the two differ, the charter applies.
 
 ## Roles
