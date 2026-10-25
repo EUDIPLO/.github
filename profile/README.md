@@ -48,10 +48,11 @@ standalone CLI and other install options.
 
 ## Repositories
 
-| Repository                                          | Description                                      |
-| --------------------------------------------------- | ------------------------------------------------ |
-| [eudiplo](https://github.com/EUDIPLO/eudiplo)       | Backend, web client, CLI, SDKs and documentation |
-| [governance](https://github.com/EUDIPLO/governance) | Teams and project governance                     |
+| Repository                                          | Description                                                       |
+| --------------------------------------------------- | ----------------------------------------------------------------- |
+| [eudiplo](https://github.com/EUDIPLO/eudiplo)       | Backend, web client, CLI, SDKs and documentation                  |
+| [governance](https://github.com/EUDIPLO/governance) | Teams and project governance                                      |
+| [.github](https://github.com/EUDIPLO/.github)       | This profile and the default community files for all repositories |
 
 ## Links
 
@@ -67,7 +68,17 @@ standalone CLI and other install options.
 
 We welcome contributions from wallet developers, institutions and anyone
 interested in the EUDI Wallet ecosystem. See the
-[contributing guide](https://github.com/EUDIPLO/eudiplo/blob/main/CONTRIBUTING.MD).
+[contribution guidelines](https://github.com/EUDIPLO/.github/blob/main/CONTRIBUTING.md)
+for the rules that apply to every repository, and the
+[eudiplo contributing guide](https://github.com/EUDIPLO/eudiplo/blob/main/CONTRIBUTING.MD)
+for setting up the service locally.
+
+Report security issues privately as described in the
+[security policy](https://github.com/EUDIPLO/.github/blob/main/SECURITY.md).
+See [GOVERNANCE.md](https://github.com/EUDIPLO/.github/blob/main/GOVERNANCE.md)
+for how decisions are made and who maintains the project, and the
+[technical charter](https://github.com/EUDIPLO/.github/blob/main/CHARTER.pdf)
+it summarizes.
 
 EUDIPLO follows the
 [LF Decentralized Trust Code of Conduct](https://lf-decentralized-trust.github.io/governance/governing-documents/code-of-conduct/).
