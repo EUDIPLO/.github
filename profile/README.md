@@ -4,6 +4,7 @@
 [![Release](https://img.shields.io/github/v/release/EUDIPLO/eudiplo)](https://github.com/EUDIPLO/eudiplo/releases)
 ![License](https://img.shields.io/github/license/EUDIPLO/eudiplo)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/EUDIPLO/eudiplo/badge)](https://scorecard.dev/viewer/?uri=github.com/EUDIPLO/eudiplo)
+[![LFX Health Score](https://insights.linuxfoundation.org/api/badge/health-score?project=eudiplo)](https://insights.linuxfoundation.org/project/eudiplo)
 [![Join our Discord](https://img.shields.io/discord/1022962884864643214?label=Discord&logo=discord&color=7289DA&labelColor=2C2F33)](https://discord.gg/58ys8XfXDu)
 
 # Your Diplomatic Layer for EUDI Wallet Integration
@@ -60,6 +61,8 @@ standalone CLI and other install options.
 - 📚 Documentation: [docs.eudiplo.dev](https://docs.eudiplo.dev)
 - 🧪 [Wallet compatibility](https://docs.eudiplo.dev/reference/wallet-compatibility)
 - 📺 [Webinar recording (September 2025)](https://www.youtube.com/watch?v=GQlvHK-EFlU)
+- 📊 [Project health on LFX Insights](https://insights.linuxfoundation.org/project/eudiplo):
+  contributors, maintainer activity and contributing organizations
 - 💬 [Discord](https://discord.gg/58ys8XfXDu) for questions and help
 - 🤝 Bi-weekly community call on Thursdays:
   [join via Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/94494306854?password=0d272140-5b2b-4bd4-a8fe-0b70efe1aa86)
