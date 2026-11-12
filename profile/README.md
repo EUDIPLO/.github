@@ -1,4 +1,7 @@
-![EUDIPLO](eudiplo.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="eudiplo-lockup-dark.png">
+  <img alt="EUDIPLO, EUDI Wallet Connector: Diplo the diplodocus with a credential on its back" src="eudiplo-lockup.png" width="450">
+</picture>
 
 [![Build Status](https://github.com/EUDIPLO/eudiplo/actions/workflows/ci-and-release.yml/badge.svg)](https://github.com/EUDIPLO/eudiplo/actions)
 [![Release](https://img.shields.io/github/v/release/EUDIPLO/eudiplo)](https://github.com/EUDIPLO/eudiplo/releases)
