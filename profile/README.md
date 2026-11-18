@@ -52,11 +52,13 @@ standalone CLI and other install options.
 
 ## Repositories
 
-| Repository                                          | Description                                                       |
-| --------------------------------------------------- | ----------------------------------------------------------------- |
-| [eudiplo](https://github.com/EUDIPLO/eudiplo)       | Backend, web client, CLI, SDKs and documentation                  |
-| [governance](https://github.com/EUDIPLO/governance) | Teams and project governance                                      |
-| [.github](https://github.com/EUDIPLO/.github)       | This profile and the default community files for all repositories |
+| Repository                                          | Description                                                                    |
+| --------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [eudiplo](https://github.com/EUDIPLO/eudiplo)       | Backend, web client, CLI, SDKs and documentation                               |
+| [website](https://github.com/EUDIPLO/website)       | Landing page at eudiplo.dev, CLI installer and published configuration schemas |
+| [wallet-qa](https://github.com/EUDIPLO/wallet-qa)   | Manual test bench for running tests with real EUDI wallets against EUDIPLO     |
+| [governance](https://github.com/EUDIPLO/governance) | Teams and project governance                                                   |
+| [.github](https://github.com/EUDIPLO/.github)       | This profile and the default community files for all repositories              |
 
 ## Links
 
